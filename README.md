@@ -7,7 +7,7 @@ Some of my interests:
 - Video games
 
 You can reach me in the following ways:
-- Email: elric.milet@gmail.com, elric.milet@liu.se or elric.milet@vti.se
+- Email: elric.milet(at)gmail.com, elric.milet(at)liu.se or elric.milet(at)vti.se
 - Discord: @velnewt
 
 <!--
