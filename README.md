@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello world!
+
+Some of my interests:
+- Transport systems
+- Public transport
+- Transit data
+- Video games
+
+You can reach me in the following ways:
+- Email: elric.milet@gmail.com, elric.milet@liu.se or elric.milet@vti.se
+- Discord: @velnewt
 
 <!--
 **Elric02/Elric02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
